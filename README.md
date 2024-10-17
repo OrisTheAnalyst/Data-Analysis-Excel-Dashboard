@@ -17,8 +17,15 @@ Currency-wise total sales displayed using a bar chart.
 - <a href="https://github.com/OrisTheAnalyst/Data-Analysis-Excel-Dashboard/blob/main/20241017_111545.jpg">DAME Dashboard<a/>
 
 
+## Process
+•	Verified the dataset for any missing values or anomalies to ensure accuracy.
+•	Ensured data consistency and cleanliness, with a focus on correct data types, formats, and values.
+•	Converted all currency values to a uniform base (USD) for streamlined analysis.
+•	Generated pivot tables to align with the project objectives and key insights.
+•	Consolidated all pivot tables into a comprehensive dashboard.
+•	Implemented slicers for dynamic filtering and enhanced interactivity 
 
 
 
-
+## Dashboard
 ![image](https://github.com/user-attachments/assets/76f12fd9-ca9e-442e-bc74-f217fc045438)
