@@ -15,4 +15,3 @@ Product sales distribution by currency.
 Currency-wise total sales displayed using a bar chart.
 
 - Dashboard Interaction <a hreft="https://github.com/OrisTheAnalyst/Data-Analysis-Excel-Dashboard/blob/c26cdde29d7f1b551aaa47187320fb7e3db96e0b/20241017_111545.jpg">DAME Dashboard<a/>
-
