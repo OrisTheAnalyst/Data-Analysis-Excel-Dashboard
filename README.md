@@ -34,3 +34,18 @@ Currency-wise total sales displayed using a bar chart.
 
 ## Dashboard
 ![image](https://github.com/user-attachments/assets/76f12fd9-ca9e-442e-bc74-f217fc045438)
+
+
+
+## Project Insight
+•	April recorded the highest number of sales compared to any other month.
+•	March saw the lowest sales volume during the observed period.
+•	The "Data Analysis Made Easy" book was the top-selling product.
+•	Sales in USD generated the highest revenue, outperforming other currencies.
+•	The currency ZAR contributed the least to total revenue.
+•	The majority of "Techies Guidebook" sales occurred in GHS currency.
+•	Most "12 Strategies" book sales were conducted in NGN currency.
+
+## Conclusion and Recommendation
+
+The data analysis highlights key trends, with April recording the highest sales and March the lowest. "Data Analysis Made Easy" was the top-selling product, and USD-based sales generated the most revenue. However, ZAR contributed the least. To optimize future performance, it's recommended to focus marketing efforts on boosting sales during slower months, particularly targeting regions with lower currency contributions like ZAR, and to leverage the strong performance of USD and top-selling products for targeted campaigns.
