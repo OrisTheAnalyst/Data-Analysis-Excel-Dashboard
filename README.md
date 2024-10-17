@@ -5,7 +5,7 @@ DAME is a data analytics company that specializes in selling Data Analytics prod
 ## Dataset used
 - <a href="https://github.com/OrisTheAnalyst/Data-Analysis-Excel-Dashboard/blob/main/DAME%20DATA%20SHEET.xlsx">Dataset</a>
 
-#Questions KPIs
+# Questions KPIs
 Which product sales the most
 Sales trends by month.
 Which month gets the highest revenue
@@ -15,3 +15,10 @@ Product sales distribution by currency.
 Currency-wise total sales displayed using a bar chart.
 
 - <a href="https://github.com/OrisTheAnalyst/Data-Analysis-Excel-Dashboard/blob/main/20241017_111545.jpg">DAME Dashboard<a/>
+
+
+
+
+
+
+![image](https://github.com/user-attachments/assets/76f12fd9-ca9e-442e-bc74-f217fc045438)
