@@ -1,2 +1,4 @@
-# Data-Analysis-Excel-Dashboard
-I developed a data analysis project in Excel, which involved creating multiple charts and a dashboard to visualize insights from the dataset. The process included data preprocessing, cleaning, and formatting, followed by data visualization. This approach transformed raw data into actionable insights through clear and impactful visuals.
+#Data Analysis Made Easy (DAME) Interactive Dashboard using MS Excel
+## Project Objectives
+DAME is a data analytics company that specializes in selling Data Analytics products. The company aims to monitor its sales performance closely and set new strategic goals to achieve growth targets for the year.
+
